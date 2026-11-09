@@ -18,7 +18,7 @@ A live **Routing** panel for [herdr](https://github.com/herdrdev/herdr) that sho
 ## Install
 
 ```sh
-git clone https://github.com/<you>/herdr-magpie-routing && cd herdr-magpie-routing
+git clone https://github.com/standby2025/herdr-magpie-routing && cd herdr-magpie-routing
 ./install.sh
 ```
 
